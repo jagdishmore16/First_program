@@ -25,5 +25,10 @@ public class Addation {
 		a =x - y;
 		return a;
 	}
-
+	public static int mul(int b,int u)
+	{
+		int d;
+		d =b * u;
+		return d;
+	}
 }
